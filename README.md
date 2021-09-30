@@ -26,7 +26,9 @@
 <br />
 
 ---
-[![Sankku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankku&show_icons=true&theme=prussian)](https://github.com/sankku/github-readme-stats)
+[![Sankku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankku&show_icons=true&theme=github_dark)](https://github.com/sankku/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankku&layout=compact&theme=city_lights)](https://github.com/sankku/github-readme-stats)
+
 
 
 [instagram]: https://www.instagram.com/santigalaniz/
