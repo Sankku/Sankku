@@ -26,6 +26,7 @@
 <br />
 
 ---
+[![Sankku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankku&show_icons=true&theme=prussian)](https://github.com/sankku/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/santigalaniz/
