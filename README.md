@@ -1,6 +1,6 @@
 ### 👋 Hi There, I’m Santi aka [Sankku] 
 - 👀 I’m interested in Frontend developing 
-- 🌱 I’m currently learning everything but focus on javascript,svelte,react 
+- 🌱 I’m currently learning everything but focus on JavaScript,React,Mongodb 
 
 ### Get in touch:
 
