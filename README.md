@@ -1,4 +1,4 @@
-### 👋 Hi There, I’m Santi aka [Sankku] 
+### 👋 Hi There, I’m Santi aka [Santi] 
 - 👀 I’m interested in Frontend developing 
 - 🌱 I’m currently learning everything but focus on JavaScript,React,Mongodb 
 
